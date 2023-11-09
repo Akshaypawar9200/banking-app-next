@@ -1,0 +1,18 @@
+.form-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.parent-filter{
+    margin: 20px 0px 20px 0px;
+    background-color:grey;
+    border-radius: 25px;
+}
+.box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}

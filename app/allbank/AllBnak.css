@@ -1,0 +1,10 @@
+.parent-filter{
+    background-color: gray;
+    padding: 30px;
+    border-radius: 25px;
+}
+.form-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

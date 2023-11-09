@@ -1,0 +1,27 @@
+.box1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button{
+    height: 10px;
+    width: 30px;
+}
+.userButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   border: 1px solid gray;
+   padding: 20px;
+   border-radius: 15px;
+}
+.parent-filter{
+    background-color: gray;
+    padding: 30px;
+    border-radius: 25px;
+}
+.form-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

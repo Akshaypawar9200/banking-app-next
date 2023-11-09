@@ -1,0 +1,49 @@
+.login{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://media.istockphoto.com/id/913439386/photo/couple-talking-to-loan-officer-and-shaking-hands.jpg?s=2048x2048&w=is&k=20&c=HwkqnomePTIeJYNI2iO4r7GnI4idnxwPA1cT33zsVXQ=);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.login-form{
+  
+  background-color: transparent ;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 15px;
+  /* opacity: 0.1; */
+
+}
+
+.login-label{
+  padding: 10px;
+  color: aliceblue;
+  font-weight: bold;
+
+}
+input{
+  padding: 10px;
+  margin-top: 5px;
+  width: 90%;
+}
+.buttons{
+display: flex;
+justify-content: center;
+padding: 10px;
+
+}
+.login-button{
+  padding: 5px;
+  width: 100%;
+  background-color: skyblue;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+
+}
